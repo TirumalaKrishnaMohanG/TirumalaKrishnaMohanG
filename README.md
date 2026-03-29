@@ -77,7 +77,7 @@ I find the cat-and-mouse nature of threat intelligence genuinely fascinating. Fe
 ### Let's talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirumala%20Krishna%20Mohan-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirumala-krishna-mohan-gudimalla-a841ba70/)
-[![Email](https://img.shields.io/badge/Email-krishna.mohan152%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishna.mohan152@gmail.com)
+[![Email](https://img.shields.io/badge/Email-krishnamohan.t93%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnamohan.t93@gmail.com)
 
 ---
 
