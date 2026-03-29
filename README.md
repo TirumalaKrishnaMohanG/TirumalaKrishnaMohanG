@@ -42,7 +42,7 @@ class TirumalaKrishnaMohan:
         "Platform Engineering (Flutter + FastAPI + MongoDB)",
     ]
 
-    currently_building = "Flexorajobs — Gig Workforce Marketplace (Hyderabad 🇮🇳)"
+    currently_building = "Something interesting"
     passion            = "Making the digital space safer — one playbook at a time."
 ```
 
@@ -140,27 +140,12 @@ class TirumalaKrishnaMohan:
 
 ---
 
-## 🚀 Currently Building — Flexorajobs
+## 🚀 Currently Building — Building Silently
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                  🏗️   F L E X O R A J O B S                     │
-│             Gig Workforce Marketplace Platform                   │
-├───────────────────────────┬─────────────────────────────────────┤
-│  🎯  Sectors              │  Hospitality · Warehousing · Airport │
-│  📍  Launch City          │  Hyderabad, India                    │
-│  📱  Go-to-Market         │  WhatsApp-First Strategy             │
-│  💳  Payments             │  UPI → Razorpay (10% commission)     │
-│  🏢  Entity               │  Skanda Infotech Pvt Ltd             │
-├───────────────────────────┴─────────────────────────────────────┤
-│  TECH STACK                                                      │
-│  ├── Mobile     →  Flutter                                       │
-│  ├── Web        →  React.js                                      │
-│  ├── Backend    →  FastAPI (Python)                             │
-│  └── Database   →  MongoDB Atlas                                 │
-└─────────────────────────────────────────────────────────────────┘
+Building something interesting
 ```
 
 </div>
@@ -203,8 +188,7 @@ class TirumalaKrishnaMohan:
 
 ## 📜 Certifications
 
-- 🏅 **C Essential Training: The Basics**
-- 🏅 **Foundation Level Threat Intelligence Analyst**
+- 🏅 **Will add**
 
 ---
 
