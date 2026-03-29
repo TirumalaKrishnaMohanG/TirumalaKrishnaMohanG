@@ -1,3 +1,7 @@
+### 🌐 [Interactive Profile → tirumalakrishnamohang.github.io](https://tirumalakrishnamohang.github.io)
+
+---
+
 ### Hi, I'm Krishna 👋
 
 I'm a cybersecurity engineer based in **Munich, Germany** — originally from Andhra Pradesh, India, via Mumbai and Stockholm.
